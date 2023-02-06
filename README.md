@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📝Contact
+# 📝Connect with me:
 <a href="https://www.linkedin.com/in/juanshotlc/">
  <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -9,14 +9,16 @@
 </a>
 
 
-# 💻 Tech Stack:
+# 💻 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
+![CSS3](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+ 
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+ 
+ 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
 
