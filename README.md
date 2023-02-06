@@ -1,3 +1,4 @@
+![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <div align="center">
 
 # 📝Connect with me:
@@ -7,6 +8,8 @@
 <a href="malito:lc.jbrshot@gmail.com">
  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+ <p> <img src="https://komarev.com/ghpvc/?username=JuanShotLC&label=Profile%20views&color=0e75b6&style=flat" alt="JuanShotLC" /> </p>
+
 
 
 # 💻 Languages and Tools:
